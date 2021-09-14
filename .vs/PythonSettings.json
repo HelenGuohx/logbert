@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+{
+  "Interpreter": "CondaEnv|CondaEnv|env_torch"
+=======
+{
+  "Interpreter": "CondaEnv|CondaEnv|env_torch"
+>>>>>>> ee5763cee0dd62c132013ef0eeac1dbbb26772ab
+}
