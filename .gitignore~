@@ -1,5 +1,0 @@
-*.csv
-*.log
-.ipynb_checkpoints
-*/*.ipynb_checkpoints
-output/*

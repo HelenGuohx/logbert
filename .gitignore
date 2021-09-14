@@ -1,7 +1,6 @@
 *.csv
 *.log
 .ipynb_checkpoints
-<<<<<<< HEAD
 output/*
 
 # Editors
@@ -129,7 +128,4 @@ venv.bak/
 .mypy_cache/
 .dmypy.json
 dmypy.json
-=======
-*/.ipynb_checkpoints
 
->>>>>>> 6ddf7b551d3a1423affcc046733271b012499c71
