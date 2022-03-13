@@ -1,0 +1,10 @@
+ipykernel==6.9.1
+pandas==1.4.1
+matplotlib==3.5.1
+numpy==1.22.3
+regex==2022.3.2
+requests==2.27.1
+seaborn==0.11.2
+scikt-learn==1.1.0
+torch==1.11.0
+tqdm==4.63.0
